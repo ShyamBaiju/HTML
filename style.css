@@ -1,0 +1,17 @@
+body {
+    background-color: aqua;
+}
+.container {
+    background-color: cadetblue;
+}
+h1 {
+    color: yellow;
+}
+#main-heading {
+    font-weight: bold;
+    color: red;
+}
+#labels {
+    color:bisque;
+}
+/* EXTERNAL STYLING */
